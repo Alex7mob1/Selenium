@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="AvicTest" />
+        <module name="HW_3_PageObject" />
       </profile>
     </annotationProcessing>
   </component>

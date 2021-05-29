@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="AvicTest_0" />
+        <module name="HW_2_Intoduction_to_Selenium" />
       </profile>
     </annotationProcessing>
   </component>
